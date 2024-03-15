@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+
+#DangNhap{
+	color: black;
+}
+
+#DangNhap:hover{
+	color: #B4BB6B;
+	transition: 0.3s ease-out 0s;
+}
+.email
+{
+	background-color: transparent;
+	border: 0;
+	border-bottom: 2px solid #B4BB6B;
+	outline: none;
+	width: 75%;
+}
